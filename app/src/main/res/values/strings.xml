@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">switchappdemo</string>
+    <string name="bulbison">bulb is on</string>
+    <string name="bulbisoff">bulb is off</string>
+</resources>
